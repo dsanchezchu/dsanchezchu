@@ -54,7 +54,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://www.java.com/es/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="36" height="36"/> 
   </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
