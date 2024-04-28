@@ -6,11 +6,11 @@
 
 <h3 align="center">I am a systems engineering student from Peru,  developer passionate about programming and learning new things.</h3>
 
-- 🔌 I am currently working on my **Python Course**
+- 🔌 I am currently **studying**
 
 - 🖥 I am currently learning **HTML5, CSS, BOOSTRAP and REACT**
 
-- 🧲 **It's always today** ✨
+- 🧲  ✨**Mereces Lo Que Sueñas** ✨
 
 - 📫 How to contact me: **doriandouble@gmail.com**
 
@@ -23,7 +23,8 @@
 
 [![image](https://img.shields.io/badge/Instagram-2347D7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.float/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.doriandouble@gmail.com)
-![YouTube Channel Subscribers](https://img.shields.io/badge/SUSBRIBETE-A4321A?style=for-the-badge&logo=youtube)
+[![YouTube Channel Subscribers](https://img.shields.io/badge/SUSBRIBETE-A4321A?style=for-the-badge&logo=youtube)](https://youtube.com/@Dorgo-qk8sw?si=IjV3JYdvk1yJLUOx)
+
 </div>
 
 ### 🛠 &nbsp;Tech Stack
@@ -49,6 +50,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="36" height="36"/> 
+  </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -62,3 +66,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+-----
+
