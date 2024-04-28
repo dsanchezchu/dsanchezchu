@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://media.tenor.com/ffcZksXYzP8AAAAi/femioso-spiderman.gif"></h1>
 
-![Banner Git](https://github.com/DorgoTxt/DorgoTxt/assets/165108758/e97704dd-b58f-48af-99a9-8d05deb80d21)
+![Banne-Git-bajacal](https://github.com/DorgoTxt/DorgoTxt/assets/165108758/b29b4259-9b5e-425b-aeae-c1594af28a54)
 ### 👨🏻‍💻 &nbsp;About Me
 -----
 
