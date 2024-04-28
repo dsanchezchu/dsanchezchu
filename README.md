@@ -21,9 +21,13 @@
 
 <div align="center">
 
+<a target="_blank">
+  
 [![image](https://img.shields.io/badge/Instagram-2347D7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.float/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.doriandouble@gmail.com)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/SUSBRIBETE-A4321A?style=for-the-badge&logo=youtube)](https://youtube.com/@Dorgo-qk8sw?si=IjV3JYdvk1yJLUOx)
+
+</a>
 
 </div>
 
