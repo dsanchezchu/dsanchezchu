@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Diego <img height="40" src="https://media.tenor.com/ffcZksXYzP8AAAAi/femioso-spiderman.gif"></h1>
+<h1 align="center"><img height="40" src="https://media.tenor.com/8Y1OBCtpf4AAAAAi/spider-man-no-way-home-marvel-studios.gif">Hi 👋, I'm Diego <img height="40" src="https://media.tenor.com/ffcZksXYzP8AAAAi/femioso-spiderman.gif"></h1>
 
 ![Banne-Git-bajacal](https://github.com/DorgoTxt/DorgoTxt/assets/165108758/b29b4259-9b5e-425b-aeae-c1594af28a54)
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me <img height="30" width="30" src="https://media.tenor.com/PFxbaGl8akMAAAAi/elon-elon-musk.gif" style="display: block; margin: 0 auto;"> 
 -----
 
 <h3 align="center">I am a systems engineering student from Peru,  developer passionate about programming and learning new things.</h3>
@@ -15,8 +15,13 @@
 - 📫 How to contact me: **doriandouble@gmail.com**
 
 - 📤 What I like to do: **I really like Breaking Bad, videogames and coding, of course**
+  
+  <div style="text-align: center;">
+    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="height: 378px; width: 682px;">
+</div>
 
-### 🤝🏻 &nbsp;Connect with Me
+
+### 🤝🏻 &nbsp;Connect with Me    
 -----
 
 <div align="center">
@@ -31,7 +36,7 @@
 
 </div>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack      <img height="40" src="https://media.tenor.com/tCKYdE2gwlcAAAAi/spider-man-marvel-future-revolution.gif">
 -----
 
 <p align="center"> 
