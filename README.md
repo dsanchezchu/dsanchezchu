@@ -21,7 +21,7 @@
     <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="height: 410px; width: 750px;">
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me    
+### 🤝🏻 &nbsp;Connect with Me  <img src="https://media.tenor.com/0haelGO2LGEAAAAi/alf-waiter.gif" alt="Alf Cook" height="30" width="30">   
 -----
 
 <div align="center">
