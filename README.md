@@ -15,6 +15,7 @@
 - 📫 How to contact me: **doriandouble@gmail.com**
 
 - 📤 What I like to do: **I really like Breaking Bad, videogames and coding, of course**
+- 👨‍🎤 I love the rock music 🎸
   
 <p align="center">
     <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="height: 410px; width: 750px;">
