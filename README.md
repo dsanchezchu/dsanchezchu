@@ -16,10 +16,9 @@
 
 - 📤 What I like to do: **I really like Breaking Bad, videogames and coding, of course**
   
-  <div style="text-align: center;">
-    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="height: 378px; width: 682px;">
-</div>
-
+<p align="center">
+    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="height: 560px; width: 900px;">
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me    
 -----
