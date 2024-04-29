@@ -18,7 +18,7 @@
 - 👨‍🎤 I love the rock music 🎸
   
 <div style="text-align: center;">
-    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="width: 100%; height: auto;">
+    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="width: 900px; height: auto;">
 </div>
 
 
