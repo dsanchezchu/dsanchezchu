@@ -17,9 +17,10 @@
 - 📤 What I like to do: **I really like Breaking Bad, videogames and coding, of course**
 - 👨‍🎤 I love the rock music 🎸
   
-<p align="center">
-    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="height: 410px; width: 750px;">
-</p>
+<div style="text-align: center;">
+    <img src="https://media1.tenor.com/m/InzN6A4-D3cAAAAC/gustavo-cerati.gif" alt="Gustavo Cerati" style="width: 100%; height: auto;">
+</div>
+
 
 ### 🤝🏻 &nbsp;Connect with Me  <img src="https://media.tenor.com/0haelGO2LGEAAAAi/alf-waiter.gif" alt="Alf Cook" height="30" width="30">   
 -----
