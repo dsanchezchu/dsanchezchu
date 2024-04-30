@@ -71,14 +71,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 -----
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <a href="https://github.com/DorgoTxt">
-    <img align="center" height="150em" min-width="50%" max-width="100wh" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://github.com/DorgoTxt">
-    <img align="center" height="150em" min-width="50%" max-width="100wh" src="https://github-readme-stats.vercel.app/api?username=DorgoTxt&show_icons=true&theme=algolia"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DorgoTxt&show_icons=true&theme=algolia"/>
   </a>
-</div>
+</p>
+
 
 
 -----
