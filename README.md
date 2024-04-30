@@ -71,7 +71,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 -----
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/DorgoTxt">
     <img align="center" height="150em" min-width="50%" max-width="100wh" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
   </a>
