@@ -73,8 +73,8 @@
 -----
 <p align= "center">
 <a href="https://github.com/DorgoTxt">
-<img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=DorgoTxt&show_icons=true&theme=merko"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DorgoTxt&show_icons=true&theme=algolia"/>
 </a>
 </p>
 
