@@ -33,6 +33,8 @@
 [![image](https://img.shields.io/badge/Instagram-2347D7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.float/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.doriandouble@gmail.com)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/SUSBRIBETE-A4321A?style=for-the-badge&logo=youtube)](https://youtube.com/@Dorgo-qk8sw?si=IjV3JYdvk1yJLUOx)
+[![Steam](https://camo.githubusercontent.com/81c399c6526d92aaa1d5a5fff070a8d1081e0b4b9f82b6e934f5d2011e42e2c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465)](https://steamcommunity.com/id/DorgoTxt/)
+[![Discord](https://camo.githubusercontent.com/7856ec0557b4de7dd3ede8e2612d2586f47bd2e7bf67e2413bade38f22b44693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/846Pdk49)
 
 </a>
 
