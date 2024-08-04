@@ -1,6 +1,6 @@
 <h1 align="center"><img height="40" src="https://media.tenor.com/8Y1OBCtpf4AAAAAi/spider-man-no-way-home-marvel-studios.gif">Hi 👋, I'm Diego <img height="40" src="https://media.tenor.com/ffcZksXYzP8AAAAi/femioso-spiderman.gif"></h1>
 
-![Banne-Git-bajacal](https://github.com/DorgoTxt/DorgoTxt/assets/165108758/b29b4259-9b5e-425b-aeae-c1594af28a54)
+![BANNER PARA GITHUB](https://github.com/user-attachments/assets/ab58118b-d96a-44a7-b4a1-9e997b06b840)
 ### 👨🏻‍💻 &nbsp;About Me <img height="30" width="30" src="https://media.tenor.com/PFxbaGl8akMAAAAi/elon-elon-musk.gif" style="display: block; margin: 0 auto;"> 
 -----
 
