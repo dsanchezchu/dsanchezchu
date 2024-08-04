@@ -75,10 +75,10 @@
 -----
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/DorgoTxt">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorgoTxt&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsanchezchu&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://github.com/DorgoTxt">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DorgoTxt&show_icons=true&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dsanchezchu&show_icons=true&theme=algolia"/>
   </a>
 </div>
 
