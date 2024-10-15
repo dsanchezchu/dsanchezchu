@@ -40,7 +40,7 @@
 
 </div>
 
-### 🛠 &nbsp;Tech Stack      <img height="40" src="https://media.tenor.com/tCKYdE2gwlcAAAAi/spider-man-marvel-future-revolution.gif">
+### 🛠 &nbsp;Tech Stack      <img height="30" src="https://media.tenor.com/tCKYdE2gwlcAAAAi/spider-man-marvel-future-revolution.gif">
 -----
 
 <p align="center"> 
@@ -73,15 +73,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 -----
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <a href="https://github.com/dsanchezchu">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsanchezchu&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://github.com/dsanchezchu">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dsanchezchu&show_icons=true&theme=algolia"/>
   </a>
-</div>
-
+</p>
 
 -----
 
